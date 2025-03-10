@@ -6,6 +6,7 @@ Materiales:
 • Arduino uno
 • Modulo bluetooth
 • 1 Led
+• Resistencia 330Ω
 • Protoboard
 • Jumpers
 ```
